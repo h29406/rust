@@ -1,0 +1,10 @@
+[package]
+name = "variables"
+# version = "0.1.0"
+# Change the version number to 2.3.4 and save the file. Keep an eye out for that version number in cargo's output when you run it!
+version = "2.3.4"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
